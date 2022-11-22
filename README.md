@@ -1,6 +1,7 @@
 # Sportradar Coding Exercise
 
 A simple calendar web application that lets the user add sporting events on the seleced date and time and render it in the calendar.
+Users can also filter the type of events that they want to render. (All events or only Football event or only Basketball events)
 When adding a sporting event, the sport teams must be of the same type (Football or Basketball) otherwise the event will not be posted in the DB.
 You can find the SQL and Schema file in the DB folder.
 
